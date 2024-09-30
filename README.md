@@ -5,3 +5,10 @@ Adicionar um novo cliente.
 Atualizar dados de um cliente.
 Adicionar, atualizar e remover endereços associados a um cliente.
 Busca clientes e seus endereços.
+
+
+
+
+*O projeto final se encontra em Projeto Ap1*
+-----------------------------------------------------------
+com descrição do código em "//"
