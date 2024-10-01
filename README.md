@@ -44,6 +44,8 @@ Post:http://localhost:8080/clientes
 ------------------------
 Buscar todos os clientes
 -----------
+
+
 GET:http://localhost:8080/clientes
 {
     "id": 1,
